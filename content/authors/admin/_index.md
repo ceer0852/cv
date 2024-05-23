@@ -19,13 +19,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Chief Scientist
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,25 +27,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/ceer0852/Leah
+ 
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
-education:
+趣味:
+  - ポイ活
+  - 投資（ナスダック100指数ファンド，仮想通貨）
+学歴:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
@@ -83,7 +68,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+職歴:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
