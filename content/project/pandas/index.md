@@ -1,7 +1,7 @@
 ---
 title: Pandas
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/ceer0852/coffee-homepage.github.io
 tags:
   - Hugo
   - Wowchemy
