@@ -3,11 +3,11 @@
 title: ワン　リアン
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: WANG LIANG
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: LIANG
+last_name: WANG
 
 # Status emoji
 status:
